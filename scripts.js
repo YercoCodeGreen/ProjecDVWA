@@ -1,6 +1,6 @@
 // XSS DOM - CROSS SITE SCRIPTING 
 
-<script>alert('ha sido hackeado')</script>;
+No se considera un script solo modificamos el DOM de la Pagina.
 
 //------------------------------------------------------------------------------------------------
 
