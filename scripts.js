@@ -1,6 +1,6 @@
 // XSS DOM - CROSS SITE SCRIPTING 
 
-No se considera un script solo modificamos el DOM de la Pagina.
+// No se considera un script solo modificamos el DOM de la Pagina.
 
 //------------------------------------------------------------------------------------------------
 
